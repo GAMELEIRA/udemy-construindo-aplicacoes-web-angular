@@ -1,0 +1,26 @@
+{
+  "name": "udemy-construindo-aplicacoes-web-angular",
+  "version": "1.0.0",
+  "description": "Este repositório têm como objetivo alocar os projetos desenvolvidos com o decorrer do curso de angular da udemy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GAMELEIRA/udemy-construindo-aplicacoes-web-angular.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GAMELEIRA/udemy-construindo-aplicacoes-web-angular/issues"
+  },
+  "homepage": "https://github.com/GAMELEIRA/udemy-construindo-aplicacoes-web-angular#readme",
+  "dependencies": {
+    "lodash": "^4.14.2"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.168"
+  }
+}
