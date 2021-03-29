@@ -12,4 +12,9 @@ export class AppComponent {
     { name: 'Leia', isJedi: false, temple: 'Coruscant' },
     { name: 'Han Solo', isJedi: false, temple: 'Coruscant' },
   ];
+
+  talkHi(): void {
+    console.log('Estou aqui meu amigo.')
+  }
+
 }
